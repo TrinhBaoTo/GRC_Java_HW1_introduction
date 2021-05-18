@@ -1,3 +1,2 @@
-# GRC_Java
+# GRC_Java_HW1
 
-Project, In class activities from GRC Java classes
